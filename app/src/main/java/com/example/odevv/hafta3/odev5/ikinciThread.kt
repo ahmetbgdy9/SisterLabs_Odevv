@@ -1,4 +1,4 @@
-package hafta3.odev5
+package com.example.odevv.hafta3.odev5
 
 class ikinciThread: Runnable {
     override fun run() {

@@ -1,4 +1,4 @@
-package hafta2.odev2
+package com.example.odevv.hafta2.odev2
 
 // Bir "Oyuncu" adlı üst sınıf oluşturun. Ardından "Futbolcu" ve "Basketbolcu" adında
 // iki alt sınıf oluşturun. Her bir alt sınıfın kendine özgü özellikleri ve işlevleri olsun.

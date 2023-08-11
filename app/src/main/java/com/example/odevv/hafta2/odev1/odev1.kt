@@ -1,4 +1,4 @@
-package hafta2.odev1
+package com.example.odevv.hafta2.odev1
 
 //1. Bir "GeometrikSekil" adlı üst sınıf oluşturun. Ardından "Dikdortgen" ve "Daire"
 // adında iki alt sınıf oluşturun. Her alt sınıfın kendine özgü alan ve çevre hesaplayan

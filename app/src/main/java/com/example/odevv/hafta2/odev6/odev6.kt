@@ -1,4 +1,4 @@
-package hafta2.odev6
+package com.example.odevv.hafta2.odev6
 //SORU
 
 //Null-safety'nin diğer programlama dilleriyle karşılaştırıldığında avantajları nelerdir?

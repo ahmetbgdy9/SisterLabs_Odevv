@@ -1,4 +1,4 @@
-package hafta2.odev3
+package com.example.odevv.hafta2.odev3
 
 //Bir "Personel" adlı sınıf oluşturun ve şirketteki personellerin özelliklerini
 // (ad, soyad, pozisyon, maaş vb.) içeren nitelikleri ve "maasArttir" gibi işlevi ekleyin.

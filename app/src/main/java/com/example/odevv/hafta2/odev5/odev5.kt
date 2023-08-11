@@ -1,4 +1,4 @@
-package hafta2.odev5
+package com.example.odevv.hafta2.odev5
 
 //Bir "Kullanici" adlı sınıf oluşturun ve ad ve soyad gibi özellikleri içeren nullable özellikler
 // tanımlayın. Kullanıcı adı ve soyadı null olabileceğini göz önünde bulundurarak

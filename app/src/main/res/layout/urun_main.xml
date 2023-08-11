@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#323232"
     app:flow_horizontalAlign="center"
-    tools:context="hafta3.odev1.MainActivity"
+    tools:context=".hafta3.odev1.MainActivity"
     >
 
 
